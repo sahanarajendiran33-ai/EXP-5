@@ -98,7 +98,8 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 
 ### B. Load regulation (Vin = ________ V, constant; VNL = ________ V)
-<img width="432" height="262" alt="Screenshot 2026-11-23 203430" src="https://github.com/user-attachments/assets/b2201b5b-7db3-4c76-8c0b-55d090126f4e" />
+<img width="432" height="262" alt="Screenshot 2026-11-23 203430" src="https://github.com/user-attachments/assets/55e5447e-b462-4c1d-ad60-61553de358d2" />
+
 
 
 ## FORMULAE
