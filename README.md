@@ -60,14 +60,16 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 ## CIRCUIT DIAGRAM
 
 ### A. Line regulation
+<img width="826" height="357" alt="Screenshot 2026-11-23 202457" src="https://github.com/user-attachments/assets/b3ab0310-270f-4bc6-9502-cf25d66c9875" />
 
-*[ Insert the line regulation circuit diagram here ]*
+
 
 **Figure 1:** Zener voltage regulator – line regulation
 
 ### B. Load regulation
 
-*[ Insert the load regulation circuit diagram here ]*
+<img width="815" height="353" alt="Screenshot 2026-11-23 202506" src="https://github.com/user-attachments/assets/7cc70817-944b-4d0d-a0d5-445b67adfab4" />
+
 
 **Figure 2:** Zener voltage regulator – load regulation
 
@@ -77,13 +79,14 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation – simulation
 
-*[ Paste the Proteus line regulation simulation screenshot here ]*
+<img width="832" height="521" alt="Screenshot 2026-11-23 202527" src="https://github.com/user-attachments/assets/8629fec1-965d-4836-bfa2-088a9237a6ba" />
+
 
 **Figure 3:** Proteus simulation – line regulation
 
 ### B. Load regulation – simulation
+<img width="828" height="550" alt="Screenshot 2026-11-23 202535" src="https://github.com/user-attachments/assets/d39da259-95ec-4d54-85ff-12c98f4c6f1a" />
 
-*[ Paste the Proteus load regulation simulation screenshot here ]*
 
 **Figure 4:** Proteus simulation – load regulation
 
@@ -127,13 +130,15 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation (Vin vs Vo)
 
-*[ Paste / draw the line regulation graph here ]*
+<img width="831" height="446" alt="Screenshot 2026-11-23 202605" src="https://github.com/user-attachments/assets/fe33be83-7ebf-4843-a99f-dabca6c482d9" />
+
 
 **Figure 5:** Line regulation characteristics
 
 ### B. Load regulation (RL vs Vo)
 
-*[ Paste / draw the load regulation graph here ]*
+<img width="832" height="392" alt="Screenshot 2026-11-23 202613" src="https://github.com/user-attachments/assets/5d181d03-01c6-4d1d-8b35-c213dd83e52b" />
+
 
 **Figure 6:** Load regulation characteristics
 
