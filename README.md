@@ -94,29 +94,12 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation (RL = ________ Ω, constant)
 
-| S. No. | Input voltage Vin (V) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="432" height="277" alt="Screenshot 2026-11-23 203546" src="https://github.com/user-attachments/assets/c5d6d464-bb1b-4852-be5b-04e6b9f91e23" />
+
 
 ### B. Load regulation (Vin = ________ V, constant; VNL = ________ V)
+![Uploading Screenshot 2026-11-23 203430.png…]()
 
-| S. No. | Load resistance RL (Ω) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
 
 ## FORMULAE
 
